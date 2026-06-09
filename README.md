@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&color=5820F7&width=700&height=50&lines=Hi%2C+I'm+Nik+Aiman+Hazriq!;🎓+Computer+Science+Student+@+UniSZA;Building+Robust+Web+Systems;Integrating+Computer+Vision+Engines&center=true&vCenter=true" alt="Typing Animation Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&color=5820F7&width=700&height=50&lines=Hi%2C+I'm+Nik+Aiman+Hazriq!;🎓+Computer+Science+Student+@+UniSZA;Building+Robust+Web+Systems;Integrating+Computer+Vision+Engines&center=true&vCenter=true&version=2" alt="Typing Animation Banner" />
   </a>
 </p>
 
