@@ -54,21 +54,4 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhazriq&theme=radical&hide_border=true" alt="GitHub Streak Tracker" width="97%"/>
-</p>
-
----
-
-## 🌐 Connect & Profile Views
-
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:nikaimanbasis1679@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nikaimanbasis1679%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/normal-counter/?username=nikhazriq&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhazriq&theme=radical&hide_border=true" alt="GitHub Streak Tracker" width="97
