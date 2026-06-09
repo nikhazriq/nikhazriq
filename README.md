@@ -1,57 +1,72 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=32&duration=3500&pause=1000&color=C8410A&center=true&vCenter=true&width=700&lines=👋+Salam%2C+I'm+Nik+Aiman+Hazriq!;🎓+Computer+Science+Student+@+UniSZA;💻+Building+Robust+Web+Systems;🤖+Integrating+Computer+Vision+Engines" alt="Typing Animation Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=32&duration=3500&pause=1000&color=C8410A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nik+Aiman+Hazriq!;🎓+Computer+Science+Student+@+UniSZA;Building+Robust+Web+Systems;Integrating+Computer+Vision+Engines" alt="Typing Animation Banner" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Final Year Bachelor of Computer Science (Software Development) Student</strong>
+  <strong>Final Year Bachelor of Computer Science (Software Development) Student @ Universiti Sultan Zainal Abidin (UniSZA)</strong>
 </p>
 
----
-
-## 💻 Tech Stack & Tools
-
-### Frontend
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> &nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> &nbsp;
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-### Backend & Databases
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> &nbsp;
-<img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/> &nbsp;
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-### Programming Languages & Mobile
-<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> &nbsp;
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> &nbsp;
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-
-### Machine Learning & DevOps
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/> &nbsp;
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> &nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+Welcome to my GitHub space! I am a passionate software engineering student focusing on building robust web architectures, optimizing database execution structures, and integrating client-side machine learning models.
 
 ---
 
-## 🚀 Core Academic Projects
+##  Core Featured Projects
 
-### 🛠️ [GestureX — Web Hand Sign Recognition System](https://github.com/nikhazriq/personal-blog)
-- **Framework Layout:** Full-stack ASL interpreter using TensorFlow.js client pipelines.
-- **Backend Infrastructure:** Implements real-time image processing via sharpening kernels backed by structured MySQL engines.
+###  [GestureX — Web Hand Sign Recognition System](https://github.com/nikhazriq/personal-blog)
+- **Tech Stack:** TensorFlow.js, JavaScript, PHP, MySQL
+- Developed an automated real-time American Sign Language (ASL) interpreter application utilizing Laplacian kernel sharpening matrices and custom box-blur image preprocessing layouts.
 
-### 🍳 [HireChefNow Web Platform](https://github.com/nikhazriq/personal-blog)
-- **Architecture Setup:** Multi-tier subscription environment bridging professional culinary chefs with client portals.
-- **Core Elements:** Built using clean HTML5/CSS3 editorial components, vanilla DOM scripts, and secure booking matrices.
+###  [HireChefNow Web Platform](https://github.com/nikhazriq/personal-blog)
+- **Tech Stack:** HTML5, CSS3 (Editorial/Magazine styling), Vanilla JS, Structured MySQL
+- Built a multi-tier subscription booking engine connecting professional culinary chefs directly with active clients, featuring full interactive calendar tools and administrative tracking tables.
 
 ---
 
-## 📊 Performance Statistics
+##  Technical Skill Matrix
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhazriq&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Hazriq's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhazriq&layout=compact&theme=radical&hide_border=true" alt="Hazriq's Top Languages" width="48%"/>
-</p>
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Frontend Development** | HTML5 • CSS3 (Flexbox/Grid) • Vanilla JavaScript (ES6) |
+| **Backend & Databases** | PHP • Node.js • MySQL Relational Databases • ERD Optimization |
+| **Programming Languages**| Python • Java • Dart |
+| **Frameworks & Libs** | TensorFlow.js • Intersection Observer Web APIs |
+| **Developer Workflows** | Git Version Control • GitHub Pages Deployments • Project Documentation |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhazriq&theme=radical&hide_border=true" alt="GitHub Streak Tracker" width="97
+---
+
+## 📊 Performance Statistics & Trophies
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nikhazriq&locale=en&mode=daily&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/nikhazriq/nikhazriq/trophy-output/trophy.svg" height="150" alt="trophy graph" />
+</div>
+
+---
+
+## 🕹️ Interactive Contribution Arcade
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhazriq/nikhazriq/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhazriq/nikhazriq/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nikhazriq/nikhazriq/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+---
+
+## 🌐 Connect & Profile Views
+
+<div align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nikaimanbasis1679@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="30" alt="email" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/normal-counter/?username=nikhazriq&style=for-the-badge&color=blue" height="30" alt="Profile Views" />
+</div>
