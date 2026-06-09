@@ -1,10 +1,10 @@
-# 👋 Salam, I'm Nik Aiman Hazriq!
+# Hi, I'm Nik Aiman Hazriq!
 
-### 🎓 Final Year Computer Science (Software Development) Student @ UniSZA
+### Final Year Computer Science (Software Development) Student @ UniSZA
 
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,19 +17,19 @@
 
 ---
 
-## 🚀 Core Academic Projects
+##  Core Academic Projects
 
-### 🛠️ [GestureX — Web Hand Sign Recognition System](https://github.com/nikhazriq/personal-blog)
+###  [GestureX — Web Hand Sign Recognition System](https://github.com/nikhazriq/personal-blog)
 - **Framework Layout:** Full-stack ASL interpreter using TensorFlow.js on client pipelines.
 - **Backend Infrastructure:** Implements real-time image processing via sharpening kernels backed by structured MySQL engines.
 
-### 🍳 [HireChefNow Web Platform](https://github.com/nikhazriq/personal-blog)
+###  [HireChefNow Web Platform](https://github.com/nikhazriq/personal-blog)
 - **Architecture Setup:** Multi-tier subscription environment bridging professional culinary chefs with client portals.
 - **Core Elements:** Built using clean HTML5/CSS3 editorial components, vanilla DOM scripts, and secure booking matrices.
 
 ---
 
-## 📊 Performance Statistics
+##  Performance Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhazriq&show_icons=true&theme=radical&hide_border=true" alt="Hazriq's GitHub Stats" width="48%"/>
