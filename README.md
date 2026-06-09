@@ -1,8 +1,12 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&color=5820F7&width=700&height=50&lines=Hi%2C+I'm+Nik+Aiman+Hazriq!;🎓+Computer+Science+Student+@+UniSZA;Building+Robust+Web+Systems;Integrating+Computer+Vision+Engines&center=true&vCenter=true&version=2" alt="Typing Animation Banner" />
+# Hi, I'm Nik Aiman Hazriq!
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=24&color=5820F7&duration=3500&pause=1000&width=500&lines=Hi%2C+I'm+Nik+Aiman+Hazriq!;🎓+Computer+Science+Student+@+UniSZA;Building+Robust+Web+Systems;Integrating+Computer+Vision+Engines" alt="Typing Animation Banner" />
   </a>
 </p>
+
+###  Final Year Bachelor of Computer Science (Software Development) Student @ Universiti Sultan Zainal Abidin (UniSZA)
 
 <p align="center">
   <strong>Final Year Bachelor of Computer Science (Software Development) Student @ Universiti Sultan Zainal Abidin (UniSZA)</strong>
