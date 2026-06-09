@@ -8,7 +8,7 @@
 
 ###  Final Year Bachelor of Computer Science (Software Development) Student @ Universiti Sultan Zainal Abidin (UniSZA)
 
-Welcome to my GitHub space! I am a passionate software engineering student focusing on building robust web architectures, optimizing database execution structures, and integrating client-side machine learning models.
+Welcome to my GitHub space! I am a passionate software development student focusing on building robust web architectures, optimizing database execution structures, and integrating client-side machine learning models.
 
 ---
 
