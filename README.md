@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=24&color=5820F7&duration=3500&pause=1000&width=500&lines=Hi%2C+I'm+Nik+Aiman+Hazriq!;🎓+Computer+Science+Student+@+UniSZA;Building+Robust+Web+Systems;Integrating+Computer+Vision+Engines" alt="Typing Animation Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=24&color=5820F7&duration=3500&pause=1000&width=500&lines=Computer+Science+Student+@+UniSZA;Building+Robust+Web+Systems;Integrating+Computer+Vision+Engines" alt="Typing Animation Banner" />
   </a>
 </p>
 
